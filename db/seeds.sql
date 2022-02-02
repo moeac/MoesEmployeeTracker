@@ -1,8 +1,8 @@
-INSERT INTO department (name)
-VALUES  ("Health"),
-        ("Transport"),
-        ("Education"),
-        ("Justice");
+INSERT INTO department (id, name)
+VALUES  (1, "Health"),
+        (2, "Transport"),
+        (3, "Education"),
+        (4, "Justice");
 
 INSERT INTO role (title, salary, department_id)
 VALUES  ("Minister for Aged Care", 1000000, 1),
