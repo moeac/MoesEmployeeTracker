@@ -3,7 +3,7 @@ const mysql = require('mysql2');
 // dotenv to read env file
 require('dotenv').config();
 
-const sequelize = mysql.createConnection(
+const db = mysql.createConnection(
   {
     host: 'localhost',
     user:   process.env.DB_USER,
@@ -13,4 +13,4 @@ const sequelize = mysql.createConnection(
   }
 );
 
-module.exports = sequelize;
+module.exports = db;
