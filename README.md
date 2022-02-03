@@ -1,4 +1,4 @@
-![yaranaikaemployeetracker](images/employeetracker.PNG)
+![yaranaikaemployeetracker](images/employeetracker.png)
 # **<p align="center"> MoesEmployeeTracker </p>**
 
 [![m8](https://img.shields.io/badge/Contributors-Me-orange?style=flat&logo=github&logoColor=orange)](https://github.com/moeac)
