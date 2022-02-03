@@ -10,10 +10,11 @@
 - [Technologies](#technologies)
 - [The Recipe](#the-recipe)
 - [License](#license)
+- [Improvements](#improvements)
 - [Shout Outs](#shout-outs)
 - [Screen Shot](#screen-shot)
 - [Links](#links)
-- [Improvements](#improvements)
+
 
 <br>
 
